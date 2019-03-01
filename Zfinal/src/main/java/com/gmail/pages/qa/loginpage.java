@@ -19,8 +19,5 @@ public class loginpage extends Testbase {
 		WebElement googlelogo;
 		
 	
-	public static  void validateSignInPage()
-	{
-	 Assert.assertTrue(arg0, arg1);
-	}
+	
 }
