@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="47" started-at="2019-03-01T14:55:27Z" finished-at="2019-03-01T14:55:27Z">
+  <suite name="Default suite" duration-ms="47" started-at="2019-03-02T14:46:56Z" finished-at="2019-03-02T14:46:56Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47" started-at="2019-03-01T14:55:27Z" finished-at="2019-03-01T14:55:27Z">
-      <class name="com.gmail.login.qa.login">
-        <test-method status="PASS" signature="testHello()" name="testHello" duration-ms="26" started-at="2019-03-01T14:55:27Z" finished-at="2019-03-01T14:55:27Z">
+    <test name="Default test" duration-ms="47" started-at="2019-03-02T14:46:56Z" finished-at="2019-03-02T14:46:56Z">
+      <class name="comlogin.q.a.loginpage">
+        <test-method status="PASS" signature="loginTest()" name="loginTest" duration-ms="32" started-at="2019-03-02T14:46:56Z" finished-at="2019-03-02T14:46:56Z">
         </test-method>
       </class>
     </test>

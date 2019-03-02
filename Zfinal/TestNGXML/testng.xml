@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.gmail.login.qa.login"/>
+      <class name="comlogin.q.a.loginpage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
